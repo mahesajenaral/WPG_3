@@ -878,7 +878,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: '::'
   triggerTag: Player
   armingDelay: 0.2
-  destroyDelay: 0.3
+  destroyDelay: 0.1
 --- !u!95 &216756750
 Animator:
   serializedVersion: 7
